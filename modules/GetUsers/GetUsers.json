@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "6824bc38282d9d462eb5c86c_ba06ef16-7bdf-4e36-bab3-f0391196f30a",
+  "moduleUUID": "c35da2e8-65dc-4532-9d5b-c7179f0a9cfc",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "5",
+            "id": "hxhseihelz",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
+        "id": "snmzpkdfcb",
+        "sectionName": ""
+      }
+    ],
+    "name": "GetUsers"
+  }
+}
